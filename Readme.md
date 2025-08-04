@@ -1,0 +1,1 @@
+This a ripo Made to learn C lang and practice
